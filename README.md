@@ -1,4 +1,4 @@
-# Hi, I'm Rohit 👋 — I build minds, not just code.
+# Hi, I'm Rohit 👋
 
 > 🤖 AI/ML Engineer · Agentic Systems · Tool Orchestration · Full Stack · India 🇮🇳
 
