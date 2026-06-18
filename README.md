@@ -4,7 +4,6 @@
 
 ---
 
-## 🧠 Who am I?
 
 From training models to deploying autonomous AI agents that *think, plan, and act*, I build systems that do the heavy lifting so humans don't have to.
 
